@@ -16,3 +16,4 @@ all available versions minecraft server
 # 3. you must set "eula" to "true" in the "eula" file.
 #
 # ( If you do not change "eula" to true, the server will not run. )
+You have to create a new folder and put spigot and batch file ( .bat) in it.
